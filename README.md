@@ -24,3 +24,7 @@
 --------------------
 
 ![img](img/pokhara.png)
+
+-----------------
+### References:
+1. Network tutorials in NetworkX : https://github.com/npdatax/learn-networkx
