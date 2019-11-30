@@ -9,7 +9,7 @@
   
 ### Step - II (Network Simulation and test)
 
-- Simulation
+- Simulation (Random Walk of drone with random orders)
 - Create Online streaming od data with Spark (Delta Lake, MLFlow)
 - Track the drone in data dashboard realtime 
 - Localization, Sensor fusion, Path selection
