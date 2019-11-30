@@ -7,7 +7,7 @@
  - Charging station : Special nodes with limited capacity of charge
  - Delevary challange: Findout the shortest and efficient path for delevary
   
-### Step - II (Network Simulation and test)
+### Step - II (Network Simulation and Test)
 
 - Simulation (Random Walk of drone with random orders)
 - Create Online streaming od data with Spark (Delta Lake, MLFlow)
